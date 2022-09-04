@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title:  "Jekyll true minimal theme"
+
 ---
 
 True minimal theme is extremely lightweight and ascetic jekyll theme.

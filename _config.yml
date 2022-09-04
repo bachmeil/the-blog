@@ -2,7 +2,7 @@ name: "Jekyll true minimal theme"
 description: "Lightweight theme"
 
 url: '' 
-baseurl: ''
+baseurl: '/the-blog'
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -20,8 +20,8 @@ paginate_path: /page-:num
 
 #disqus-id: your-disqus-id
 
-#source: .
-#destination: ./_site
+source: .
+destination: ./_site
 
 sass:
     style: :compressed
