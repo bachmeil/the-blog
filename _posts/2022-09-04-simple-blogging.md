@@ -17,3 +17,6 @@ Anyone wanting a website could copy the files in this repo and make the changes 
 Further, everything can be edited in the browser using VS Code.
 
 I've been working on this for a while. I've created other options too, including for those who run their own web server.
+
+I customized this theme to add MathJax support:
+\(y_{t} = \xi_{t}\)
