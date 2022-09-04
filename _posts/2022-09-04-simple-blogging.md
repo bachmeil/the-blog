@@ -20,3 +20,10 @@ I've been working on this for a while. I've created other options too, including
 
 I customized this theme to add MathJax support:
 \\[y_{t} = \xi_{t}\\]
+
+The theme is **extremely** minimal. The main drawback is the ugliness of code blocks:
+
+```
+print "hi"
+x = 3+2;
+```
