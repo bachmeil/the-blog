@@ -2,14 +2,10 @@
 layout: post
 title: In praise of mediocrity
 ---
-Sometimes I think of mediocre people as low achievers. Some of them certainly are.
+It's okay to be mediocre if you're consistent. What I mean by that is that you generally can't judge the quality of your work by looking at a single day.
 
-On the other hand, you might have someone that goes to work every day for 30 years, with no days that are noteworthy, and yet the cumulative effect of the contributions they've made is in the far right end of the distribution. 
+You'll feel mediocre if you get up, take a shower, go to work, do some stuff that lots of other people can do while you're at work, go home, watch Netflix, then go to bed. Nothing stands out about your day. That's true of every individual day.
 
-Maybe the mediocre guy wrote a quick program to do some task. Only a few people used it, if anyone else used it at all.
+What this view misses is that consistently doing solid work every day for 30 years adds up to an elite level of output. Suppose you write a short script to do some task. You're the only one that uses it. Then you add a few more features, and it slowly transforms from a script to an app. Month after month, you make changes here and there to fix bugs, take off the rough edges, and make it easier to use. You write up a short Readme file documenting the functionality. Over time, adding a few sentences here and a paragraph there, you end up with a 20-page manual covering everything in detail.
 
-Over the next five years he fixed all the bugs and cleaned up the interface and added small but vital functionality. Then the five years after that he documented his app. 
-
-After ten years, there's a nice little app used by thousands of people. Each day he programmed and wrote documentation, his work was mediocre. You would have been bored to tears watching him work.
-
-What wasn't mediocre was his consistent work on the app and the documentation. The end result was a stunning body of work that helps thousands of people. Consistently mediocre is very different from mediocre.
+After ten years of slow, steady mediocrity, you have an app that provides value to many others. You didn't need a twelve-hour hackathon to implement a complicated new algorithm.
