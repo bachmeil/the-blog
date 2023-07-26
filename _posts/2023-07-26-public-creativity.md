@@ -7,7 +7,7 @@ It doesn’t take much public creativity to stand out as a job candidate](https:
 
 Simon Willison is writing about the hiring process for software developers in San Francisco. The advice applies in many more cases.
 
-If you want to get recruited to play college sports, the first thing you need to do is develop a web presence. Coaches generally aren't going to know anything about you unless your dad plays in the NBA, or you play on the same team as the coach's kid. You won't get anywhere without video. Why would a coach spend time on one of thousands of potential recruits that contact them each year if the only thing they have is an email message? There's other information you should provide, but coaches don't have the time or incentive to do research on a player. The player needs to show them what they can do in a short window of time.
+If you want to get recruited to play college sports, the first thing you need to do is develop a web presence. Coaches generally aren't going to know anything about you unless your dad plays in the NBA, or you play on the same team as the coach's kid. You won't get anywhere without video. Why would a coach spend time on one of thousands of potential recruits that contact them each year if the only thing they have is an email message? Coaches don't have the time or incentive to do research on a player. The player needs to show them what they can do in a short window of time.
 
 If you're applying for a faculty position, a blog and a software page let the recruiting department better understand you. It's not going to get you a job, but it will help you stand out a bit from the crowd.
 
