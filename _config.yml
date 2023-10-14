@@ -1,5 +1,6 @@
 name: "Blog"
 description: ""
+title: "The bachmeil blog"
 
 url: 'https://bachmeil.github.io/the-blog' 
 baseurl: ''
@@ -15,6 +16,7 @@ use_math: true
 
 plugins:
   - jekyll-paginate
+  - jekyll-feed
 paginate: 10
 paginate_path: /page-:num
 
