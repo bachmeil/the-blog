@@ -1,0 +1,31 @@
+---
+title: No, GTD shouldn't take that long
+layout: post
+---
+This is a comment on [a Reddit post](https://www.reddit.com/r/gtd/comments/175nrdx/the_math_behind_gtd_just_doesnt_make_sense/). I don't have much motivation to dump my content into someone else's walled garden, so I'm putting it here instead.
+
+The general point being made is the same one that comes up all the time in discussions of GTD. I believe it represents an incorrect view of GTD as well as an incorrect implementation of GTD.
+
+GTD is an acronym for "Getting Things Done". I suppose it's natural that someone would interpret that to mean "do the same things you're doing now, but faster". That *might* be an outcome of GTD, but another outcome might be that you do different things, and indeed, you might end up working more. You'll have less stress, because you're doing the valuable things, you *know* you're doing the valuable things, and you don't try to hold so much stuff in your head. There's no reason to think that will translate into less hours working. Given how many people scroll social media as a form of procrastination, I'm inclined to say the average person that adopts GTD will be working more hours.
+
+But let's set that aside. Is the overhead of GTD really that great? You should have a master projects list. That can be a single piece of paper, a single note in Evernote, or whatever. There's not much to it. The master projects list should have all of your active, inactive, someday/maybe, and completed/archived projects.
+
+You need inboxes for capture. For me, that's primarily my email. I use a paper notebook to capture some things during the workday. I have a digital task manager. That's the extent of my capturing.
+
+You need a list of next actions to move your active projects forward. When I do my weekly planning, I drop tasks onto the list of things I'm going to try to do in the upcoming week. Items that I can't get to in the next week are stored within the project. Project management varies, but smaller projects might be a single note in Obsidian, and larger projects might be stored in a repository.
+
+You need a calendar for things that have a specific date attached. I use my Fastmail calendar, but there are obviously many alternatives that work well, even on paper. This is where my tickler items go. I've made a decision to revisit something on a certain day, and since that means there's a specific date attached to the revisit, it belongs on my calendar.
+
+That's all you need to do GTD. Note the absence of a todo list. David Allen explicitly warns against having a todo list, and I agree.
+
+So now let's address the time requirements. Is the weekly review a lengthy process? It takes me 15 minutes or less to do a full review in a typical week. Let's look at the individual components, keeping in mind that the purpose is to ensure that nothing slips through the cracks.
+
+- Review the master projects list. Am I making progress on all of the active projects each week? Are there any thoughts about additional things to do on any of them? Should some move to inactive status? There's usually not much to do here. If a project needs serious rethinking, that's a task for the next week. Inactive projects require only asking "Am I ready to start working/do I need to start working on this now?" The someday/maybe group gets a quick glance, but not much in a weekly review. I do more with that in a quarterly review. Total time to review the master projects list: 1-2 minutes.
+- Review my inboxes to make sure nothing's slipping through the cracks. There's a lot of variation in the time this takes. I open up my paper notebook, my email, my task manager, my calendar, and my weekly planning list. Have I forgotten to do something that needs to be done? If so, I do it. This is most commonly an email I forgot to respond to. That can be time consuming, but it's also not part of the weekly review. It's work I should have done during the week. Luckily, I have the weekly review to remind me to do it. I have to decide what to do with any remaining items that didn't get done. I have to make sure they get updated in the system. Total time for the review (not the doing of things I forgot): 10 minutes.
+- Weekly planning list: List the major things I'm going to work on during the upcoming week. That doesn't include anything on the calendar, since anything on my calendar is already in my system. I don't add routine items like teaching class, because I know I'll do them. This list is usually 5-10 items for the whole week. Total time for planning: 2-3 minutes.
+- Small things. I keep a running list of small things to do in my task manager. I take a look at it to decide what to close out, and to make sure I haven't forgotten to do something that needs doing, but this is mainly something I fiddle around with during the work week. Minor items are not worth the energy in a weekly review. Total time: 1 minute.
+- Goals and someday/maybe: These are not reviewed every week. I dig into them in my quarterly/stress-reducing reviews. Total time: 0 minutes.
+
+If the weekly review is taking an extraordinary amount of time, you're either not using the system during the week (probably because you're postponing the processing of items in your inbox), or you're overorganizing. The weekly review is there to catch the few items slipping through the cracks. If it takes you two hours to review everything, you're not very good at your job. If you have 50 email messages that need a response, don't blame GTD for pointing it out. Take it as a signal that you need to do better.
+
+The only benefit of GTD is that it helps you to get stuff done. It's not an organization system. If you're putting everything in "the right place", well, you're wasting a lot of time. You need to store the right stuff, you need to know how to find it, and you need to be sure everything is getting done. Organizing is largely a distraction, and for some people, a form of procrastination to avoid doing the work. Long todo lists are filled with items that need more processing and a plan for completion - they're nothing but an unprocessed inbox. Adding proper tags to your notes and putting them all in the right subfolder may or may not be worth your time, but it has nothing to do with GTD.
