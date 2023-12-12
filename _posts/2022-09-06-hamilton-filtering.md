@@ -6,7 +6,7 @@ I recently taught [this paper](http://econweb.ucsd.edu/~jhamilto/hp.pdf) in my m
 \\[y_{t} = \beta_{0} + \beta_{1} y_{t-8} + \beta_{2} y_{t-9} + \beta_{3} y_{t-10} + \beta_{4} y_{t-11} + \varepsilon_{t} \\]
 and using the fitted values as the trend.
 
-Robert Hodrick has written [a response paper](http://www8.gsb.columbia.edu/researcharchive/getpub/26120/p). R code [to replicate Hamilton's results is available](https://justinmshea.github.io/neverhpfilter/). Code for other languages is linked on Hamilton's website.
+Robert Hodrick has written [a response paper](https://www.nber.org/papers/w26750) [Link to PDF](https://www.nber.org/system/files/working_papers/w26750/w26750.pdf). R code [to replicate Hamilton's results is available](https://justinmshea.github.io/neverhpfilter/). Code for other languages is linked on Hamilton's website.
 
 I do wish the literature was clearer on the meaning of a trend. This is not in general the same idea as a stochastic trend. I remember attending a presentation of [The Mysteries of Trend](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1676216) by Peter Phillips years ago.
 
