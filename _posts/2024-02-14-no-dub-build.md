@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making D work for academic research: The package manager
+title: Making D work for academic research\: The package manager
 ---
 Let's start by talking about why building projects with Dub is problematic.
 
