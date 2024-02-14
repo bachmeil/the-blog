@@ -14,15 +14,15 @@ Now, with that out of the way, let's see why Dub is problematic for academic res
 - Step 4. Run the program by typing `source('program.R')`. R handles all of the dependencies automagically.
 - Step 5. Add the second program to the project by creating program2.R. Load that program's dependencies by adding lines such as `library(foo)`. Run the second program, which is in the same directory as program.R, by typing `source('program2.R')`.
 
-The important point (which many enterprise programmers will not catch) is the lack of friction that allows the programmer to go from the idea to having a running program with dependencies quickly. The programmer can think about writing the program rather than the busywork of creating directories and configuration files. The R programmer doesn't have to think about that at all.
+The important point (which many enterprise programmers will not catch) is the lack of friction that allows the programmer to go from the idea to having a running program with dependencies quickly. The programmer can think about writing the program rather than the busywork of creating directories and configuration files.
 
 Contrast that with the Dub approach:
 
-Step 1. Create a directory with the proper structure.
-Step 2. Create a configuration file that includes dependencies and shared libraries that need to be linked.
-Step 3. Write the program.
-Step 4. Tell Dub to build and run your program.
-Step 5. Add a second program by creating a new directory with the necessary structure. Add another configuration file. From the new directory, have Dub build and run your second program.
+- Step 1. Create a directory with the proper structure.
+- Step 2. Create a configuration file that includes dependencies and shared libraries that need to be linked.
+- Step 3. Write the program.
+- Step 4. Tell Dub to build and run your program.
+- Step 5. Add a second program by creating a new directory with the necessary structure. Add another configuration file. From the new directory, have Dub build and run your second program.
 
 This is, to say the least, less than an optimal experience. Why would anyone want to deal with all that overhead? More fundamentally, why should the user have to deal with the overhead at all? It's not necessary if they're writing a program with R. The required directory structure plus configuration file is a major turnoff.
 
@@ -30,11 +30,11 @@ I've seen this claim before, so let me kill it now: this has nothing to do with 
 
 # Can D be just as convenient?
 
-Absolutely. There's no technical reason the experience can't be just as overhead-free for D as it is for R and other languages. It may seem odd for me to say that abandoning Dub as a build tool does not imply abandoning Dub altogether. It appears that many in the D community are unaware that Dub does a lot more than build projects. Not only that, it includes everything needed to avoid the overhead of building projects with it, so the bulk of the work is already done.
+Absolutely. There's no technical reason the experience can't be just as overhead-free for D as it is for R and other languages. It may seem odd for me to say that abandoning Dub as a build tool does not imply abandoning Dub altogether - it does everything needed to avoid the overhead of building projects with it, so the bulk of the work is already done.
 
 # Case 1
 
-Suppose you want to add a dependency that's on the Dub registry, and it's nothing but D source files, with no dependencies of its own. One package that fits this description is dxml. The package can be installed by the user by typing
+Suppose you want to add a dependency that's on the Dub registry, and it's nothing but D source files, and it has no dependencies of its own. One package that fits this description is dxml. The package can be installed by the user by typing
 
 ```
 dub fetch dxml
@@ -66,7 +66,7 @@ ldmd2 -i program.d -I/home/office/.dub/packages/dxml/0.4.3/dxml/source/
 
 # Case 2
 
-Now you need something slightly more complex. You have a dependency that's on the Dub registry, and it has dependencies of its own on the Dub registry. This initially seems to be much more complicated than the previous case. Thanks to the functionality of Dub, it's actually the exact same amount of complexity. Suppose your dependency is mir-ion. First the user installs the package:
+Now you need something slightly more complex. You have a dependency that's on the Dub registry, and it has dependencies of its own on the Dub registry. This initially seems to be much more complicated than the previous case. Thanks to the functionality of Dub, nothing changes. Suppose your dependency is mir-ion. First the user installs the package:
 
 ```
 dub fetch mir-ion
