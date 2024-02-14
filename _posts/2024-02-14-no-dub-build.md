@@ -150,4 +150,55 @@ That would allow the source files to be compiled unmodified by the D compiler.
 
 # Implementation
 
-I've been thinking about this for years. I've done some preliminary work with Linux shell scripts, but a more serious effort should be written in D.
+I've been thinking about this for years. I've done some preliminary work with Linux shell scripts, but a more serious effort should be written in D. Here's a quick example in D, only to show that yes, this is possible and not that hard to do. 
+
+dwrap.d:
+
+```
+import std.file, std.process, std.stdio, std.string;
+
+void main(string[] args) {
+  string fn = args[1];
+  string f = readText(fn);
+  string[] dubLoads;
+  foreach(line; f.split("\n")) {
+    if (line.startsWith("// dub ")) {
+      auto ind = line.indexOf(";");
+      dubLoads ~= line[7..ind].replace(`"`, "");
+    }
+  }
+  string cmdAdditions;
+  if (dubLoads.length > 0) {
+    foreach(d; dubLoads) {
+      string tmp1 = executeShell("dub describe " ~ d ~ " --data=import-paths --vquiet").output.strip;
+      string tmp2 = executeShell("dub describe " ~ d ~ " --data=libs --vquiet").output.strip;
+      cmdAdditions ~= tmp1 ~ " " ~ tmp2 ~ " ";
+    }
+  }
+  string cmd = "ldmd2 -i " ~ fn ~ " " ~ cmdAdditions;
+  writeln(cmd);
+  writeln(executeShell(cmd).output);
+}
+```
+
+dwraptest.d:
+
+```
+// dub dxml;
+// dub libnlopt;
+// dub "mir-ion";
+
+void main() {}
+```
+
+Execute:
+
+```
+rdmd ./dwrap.d dwraptest.d
+```
+
+Output I get:
+
+```
+ldmd2 -i dwraptest.d '-I/home/lance/.dub/packages/dxml/0.4.3/dxml/source/'  '-I/home/lance/.dub/packages/libnlopt/0.2.0/libnlopt/source/' -L-lnlopt '-I/home/lance/.dub/packages/mir-ion/2.2.1/mir-ion/source/' '-I/home/lance/.dub/packages/mir-algorithm/3.21.0/mir-algorithm/source/' '-I/home/lance/.dub/packages/mir-core/1.7.0/mir-core/source/' '-I/home/lance/.dub/packages/mir-cpuid/1.2.11/mir-cpuid/source/'
+```
