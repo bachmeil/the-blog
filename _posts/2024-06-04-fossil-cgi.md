@@ -1,6 +1,8 @@
 ---
+title: Running CGI extensions with Fossil locally
+layout: post
 ---
-I'm a big fan of [Fossil](). The only reason I use other Git services like Github is because others use it. Though I have to admit that it's easier to click a button to create a repo than to add a new repo to a self-hosted server.
+I'm a big fan of [Fossil](https://fossil-scm.org). The only reason I use other Git services like Github is because others use it. Though I have to admit that it's easier to click a button to create a repo than to add a new repo to a self-hosted server.
 
 A couple nice features of Fossil are:
 
