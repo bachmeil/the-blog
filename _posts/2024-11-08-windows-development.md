@@ -15,6 +15,6 @@ Here are the tools I have installed on Windows 11 to make the development experi
 
 - Files App. You can download it from Github or from the Windows store.
 - Windows Terminal. Available in the Windows store.
-- Git Bash. Bring the Linux terminal experience (with limitations) to Windows.
+- Git Bash. Bring the Linux terminal experience (with limitations) to Windows. You can set Bash aliases as on Linux. That's pretty important because you don't need to mess around with setting PATH on Windows.
 - Geany. My editor of choice for programming.
 - RTools. For compiling R packages on Windows. Unlike the old days, it's very easy to set up, and when combined with the devtools package, compiling packages with source code on Windows is straightforward.
