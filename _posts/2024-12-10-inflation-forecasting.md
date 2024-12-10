@@ -24,9 +24,9 @@ This useless argument got a lot of attention when CNN ran a story about a family
 
 Do you see retirement planners telling people that they can retire based on projections of the price of milk over the next 30 years? Of course not. Anyone doing that would cease to be a retirement planner for long. The question is so absurd that you're dismissive of the premise. Yet that is what CNN was proposing we do.
 
-Also notoriously absent from their reporting, and another reason you don't want to focus on just one item, is that the price of milk started rising in the middle of 2018. It went from \$2.84 in July 2018 to \$3.25 by January 2020, a 14% increase in only 18 months. I searched but did not find any evidence that CNN did stories on the soaring price of milk before the pandemic.
+Also notoriously absent from their reporting, and another reason you don't want to focus on just one item, is that the price of milk started rising in the middle of 2018. It went from 2.84 in July 2018 to 3.25 by January 2020, a 14% increase in only 18 months. I searched but did not find any evidence that CNN did stories on the soaring price of milk before the pandemic.
 
-The non-misleading version of the story is that milk prices peaked in 2014 at \$3.86 a gallon. The price collapsed to \$2.84 by July 2018, and then recovered to \$4.20 in May 2022. In real terms, the 2022 milk price was substantially lower than the 2014 price. Prices go up and down. You can't take a highly volatile price and only run news stories on a selected sample of the times they go up. This is all stuff that a basic fact-checker would have raised if the goal was accuracy in reporting.
+The non-misleading version of the story is that milk prices peaked in 2014 at 3.86 a gallon. The price collapsed to 2.84 by July 2018, and then recovered to 4.20 in May 2022. In real terms, the 2022 milk price was substantially lower than the 2014 price. Prices go up and down. You can't take a highly volatile price and only run news stories on a selected sample of the times they go up. This is all stuff that a basic fact-checker would have raised if the goal was accuracy in reporting.
 
 > Price increases are permanent
 
