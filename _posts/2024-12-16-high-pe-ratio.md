@@ -1,0 +1,32 @@
+---
+title: How I approach the PE ratio
+layout: post
+---
+**Disclaimer:** I'm not a finance researcher. I've read finance papers over the years, handled some finance papers for an academic journal, and even published a couple papers with finance content. That doesn't make me a "finance guy"! This is a blog post about what I've done in my own financial planning journey. Talk to a fee-only fiduciary financial advisor if you want advice for your personal situation. Please don't send me an email asking what I would do in your situation.
+
+The Shiller CAPE ratio as of this writing is 38.54. [Here's a graph.](https://www.multpl.com/shiller-pe) I won't lie, that's a scary figure if, like me, you have most of your retirement portfolio in the stock market. It suggests a serious market correction is on the way. 2000-2009 is *not* something you want to relive if you're 15 years from retirement. Late 1999 was the highest CAPE value ever. It dropped by half and hasn't come close since. The only other time it was this high was late 2021, and then it quickly dropped.
+
+So why have I chosen not to pull my money out of stocks in anticipation of a market crash?
+
+1\. I'm diversified. I only currently have a portfolio allocation that's 60% stocks and 40% other stuff, which is dramatically different from my earlier days of almost 100% aggressive stock funds. Of the 60% stocks, 75% is US stock funds and 25% international stock funds, making 45% of my total portfolio US stocks. My exposure to whatever risk comes with a high CAPE ratio isn't *that* high. The reasoning behind my current allocation is a topic for a different post.
+
+2\. My horizon is still long enough to not worry. Since I'm not expecting to take withdrawals for 15 years or so, a 50% decline is something that won't cost me any sleep with my current allocation. Even when I'm three years from starting withdrawals, I'm not sure losing 22.5% of my portfolio is going to be an issue. Some rough math says that with a million saved and withdrawing 4% of my portfolio, I'll cut spending by $9000. Alternatively, my withdrawal rate to hold spending constant goes from 4% to 5%.
+
+3\. PE ratios can fall without a market crash. Median annual earnings growth is more than 10%. It was around 20% in 2017 and 2018. 5% appreciation combined with several years of fast growth will bring the CAPE down in a hurry. The scariness of high CAPE ratios comes from 2000. Let's be careful not to extrapolate too much from one observation. Maybe we're in a bubble right now, but there's no reason to think we are.
+
+4\. It's possible that these high PE ratios are justified. Maybe earnings will be higher in the next ten years than they are now. Maybe AI will radically change the economy. I don't think it will any more than previous technology shocks, but I don't know that. If AI is able to paint houses at half the price and increase crop yields 40% and write email responses for us, we'll look back in 30 years and wonder why the CAPE ratio was so low. You only need to be right one time out of ten about a radical change in technology to justify a high CAPE ratio.
+
+5\. Is there a good reason to take PE ratios, or for that matter, any stock market data, from way in the past as an indicator of the true data generating process? The world was different in the 1920s. The S&P 500 didn't exist. The Federal Reserve was a new thing and they mostly had no idea what they were doing. There were no index funds. There were no retirement accounts as we think of them. "Retirement" meant a pension. Stocks were held by rich people with underdiversified portfolios. We've moved into the new retirement regime over the last 30 years. CAPE ratios fluctuate around 30 in this era. Maybe this is just what the new group of stock owners is comfortable with. CAPE falling to 30 entirely due to a price drop would reduce my portfolio by 10%.
+
+6\. The alternatives to stocks are decent right now, but not by enough to reduce my allocation further. The risk premium is high enough to put up with higher volatility. Dumping money into 4.5% 30-year Treasuries or 2% 30-year TIPS wouldn't be a terrible decision. I expect much higher than a 2% real return over the next fifteen years, and as I noted above, my current allocation means I could handle even a large correction of US stocks. Also, and much more important, my retirement plan does not provide an option to buy bonds. I only have the option to buy *bond funds*. Those things go all over the place and have a low average return.
+
+7\. Earnings have dropped since 2022. The current calculation includes 2015 and 2020, which were terrible years, and earnings have been growing slowly by historical standards. 12% earnings growth (not high at all by historical standards) the last three years, would deliver a very different CAPE ratio. I don't want to do the math for the CAPE, but 12% annual earnings growth the last three years, which is just as plausible as the path we actually took, would give a current PE ratio under 20. Median earnings growth since the eve of the pandemic would put the current PE ratio at 25.8. However you measure PE ratios, there's a lot of uncertainty about how well you're proxying for future earnings.
+
+8\. The *current* PE ratio (as opposed to CAPE) isn't scary. And as noted in the previous point, it's based partly on poor recent earnings growth, which makes it even less scary. It's not unreasonable to expect earnings to be better over the next ten years than in the previous ten years. Importantly, you don't need to tell any stories about AI to justify such a belief.
+
+Putting all this together, I see no reason to care about the CAPE ratio right now:
+
+- We don't need a crash to bring the CAPE ratio down. The S&P 500 index could go up while the CAPE falls.
+- The CAPE ratio may only need to go to 30 to be in equilibrium.
+- My allocation means I'm not that exposed even if it corrects itself entirely with lower prices. I'd lose 10% of my portfolio.
+- The last ten years includes earnings numbers that probably underpredict earnings over the next twenty or thirty years. We have to be careful extrapolating from a short sample that includes the pandemic. The scariness of the current CAPE is entirely due to the inclusion of the pandemic period in the calculation. That makes it too unreliable a piece of information for me to use as the basis for major decisions.
