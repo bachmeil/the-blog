@@ -30,12 +30,14 @@ Prompt 1: If you cut back to 50% of your working hours, how would it change how 
 
 It was enjoyable thinking about such a scenario once I thought about having large blocks of time to work on the things that are important to me. I'd be able to work on the goals that motivated me to get into this profession in the first place. The only problem when I finished the exercise was that my list of things to do was *way too long* for the available hours! I had more stuff on this list than on my current todo list.
 
-Prompt 2: What would you be doing this week if you were retired? 
+Prompt 2: What would you not be doing this week if you were retired? 
 
-This was a better exercise because I used my real-world task list for the current week. I crossed off anything I didn't want to do, conditional on not needing to do it, so I still had to pay my bills. Only removing things I had to do right now but didn't want to do, it was clear I'd be overscheduled even as a fully retired person. 
+This was a more realistic exercise because I was able to use my real-world task list for the current week and choose which tasks I would not be doing. It had to be practical. I still had to pay my bills, for instance, so I couldn't cross stuff like that off my list. By only removing things I had to do right now but didn't want to do, and allowing that space to be taken up with the things on my list that I enjoyed doing, it was clear I'd be overscheduled even as a fully retired person. 
 
 Prompt 2a: I later came up with my own variant to make this even clearer. I use a weekly note to record the things I'm working on. When I put things in the note, I categorize them as things I'd do in retirement or not do. Making this kind of list clarifies what a typical week will actually look like. There's just SO MUCH STUFF on there that boredom is not a relevant concern.
 
-I still have a long time until retirement. These exercises are purely academic at this stage. Nonetheless, I've shortened my expected retirement age to 65 after doing them.
+[Added nine months later: I've done these exercises multiple times since this post was first written.]
+
+Now, back to reality. I still have a long time until retirement. These exercises are purely academic at this stage. On a practical note, I *have* shortened my expected retirement age after doing them.
 
 - Some edits made on August 9, 2025
