@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title: The 4% rule can be dangerous
 ---
 The "4% rule" is a useful rule of thumb to ballpark how much you'll need to save for retirement *as long retirement is in the distant future*. It is the answer to the question "What percentage of my retirement savings, at the time of retirement, can I sustainably spend each year of a thirty-year retirement?" It's an interesting exercise, but keep in mind that it assumes you want an income source that imitates Social Security. It's a guaranteed income that you have coming in every month for thirty years. It's adjusted for the CPI.
