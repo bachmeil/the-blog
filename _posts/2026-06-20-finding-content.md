@@ -2,9 +2,9 @@
 layout: post
 title: Internet Content Directory 2026
 ---
-Finding real internet content in 2026 is *extremely* hard. It's shocking that it's *this* much harder to find real content than it was 25 years ago. Take this is a leading counterexample if someone says technology doesn't regress.
+Finding real internet content in 2026 is *extremely* hard. It's shocking that it's *this* much harder to find real content than it was 25 years ago. This is a leading counterexample if anyone says technology doesn't regress.
 
-This page is my personal index of real internet content. If it helps anyone else, great. Hopefully you can find yourself going down a rabbit hole where you spend hours reading about others careful thoughts and analysis.
+This page is my personal index of real internet content. If it helps anyone else, great. Hopefully you can find yourself going down a rabbit hole where you spend hours reading about others careful thoughts and analysis. The links are for reading and learning (even if I don't agree with it!) rather than shallow consumption/entertainment/interacting with others - activities I prefer to avoid.
 
 - <https://lxer.com/>
 - <https://bubbles.town/>
@@ -26,6 +26,7 @@ This page is my personal index of real internet content. If it helps anyone else
 - <https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/index.html>
 - <https://faculty.chicagobooth.edu/eugene-fama>
 - <https://www.nber.org/>
+- <https://www.aeaweb.org/journals/jep>
 - <http://repec.org/>
 - <https://arxiv.org/>
 - <http://scripting.com/>
