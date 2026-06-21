@@ -4,7 +4,7 @@ title: Internet Content Directory 2026
 ---
 Finding real internet content in 2026 is *extremely* hard. It's shocking that it's *this* much harder to find real content than it was 25 years ago. Take this is a leading counterexample if someone says technology doesn't regress.
 
-This page is my personal index of real internet content. If it helps anyone else, great.
+This page is my personal index of real internet content. If it helps anyone else, great. Hopefully you can find yourself going down a rabbit hole where you spend hours reading about others careful thoughts and analysis.
 
 - <https://lxer.com/>
 - <https://bubbles.town/>
@@ -55,4 +55,17 @@ This page is my personal index of real internet content. If it helps anyone else
 - <https://openstax.org/>
 - <https://oercommons.org/hubs/open-textbooks>
 - <https://libretexts.org/>
+- <https://textbooks.aimath.org/>
 - <https://ccel.org/>
+- <https://plato.stanford.edu/>
+- <https://scienceblogs.com/>
+- <https://www.science.org/blogs>
+- <https://www.feynmanlectures.caltech.edu/>
+- <https://www.nobelprize.org/>
+- <https://amturing.acm.org/lectures.cfm>
+- <https://www.berkshirehathaway.com/letters/letters.html>
+- <https://www.oaktreecapital.com/insights>
+- <https://www.mercatus.org/macro-musings> (Note: You can read transcripts of the podcasts)
+- <https://www.bogleheads.org/wiki/Main_Page>
+- <https://www.gutenberg.org/>
+
