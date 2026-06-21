@@ -68,4 +68,28 @@ This page is my personal index of real internet content. If it helps anyone else
 - <https://www.mercatus.org/macro-musings> (Note: You can read transcripts of the podcasts)
 - <https://www.bogleheads.org/wiki/Main_Page>
 - <https://www.gutenberg.org/>
-
+- <https://www.mooreds.com/wordpress/>
+- <https://distrowatch.com/>
+- <https://docs.freebsd.org/en/books/handbook/>
+- <https://gigamonkeys.com/book/>
+- <https://www.paulgraham.com/onlisptext.html>
+- <https://letoverlambda.com/>
+- <https://lispcookbook.github.io/cl-cookbook/>
+- <https://cliki.net/Lisp%20Books>
+- <https://www.emacswiki.org/>
+- <https://sive.rs/>
+- <https://sachachua.com/blog/>
+- <https://www.iro.umontreal.ca/~lecuyer/>
+- <https://craftinginterpreters.com/>
+- <https://austinhenley.com/blog.html>
+- <https://postgrespro.com/community/books/internals>
+- <https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html>
+- <https://lawrencecpaulson.github.io/>
+- <https://r4ds.hadley.nz/>
+- <https://adv-r.hadley.nz/>
+- <https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf>
+- <https://immersivemath.com/ila/index.html>
+- <https://textbooks.math.gatech.edu/ila/index.html>
+- <https://web.stanford.edu/~boyd/>
+- <https://fxdiebold.blogspot.com/>
+- <https://www.sas.upenn.edu/~fdiebold/>
