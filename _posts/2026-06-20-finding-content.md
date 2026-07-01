@@ -112,4 +112,9 @@ This page is my personal index of real internet content. If it helps anyone else
 - <https://www.dallasfed.org/research>
 - <https://cloud.email.em-dallasfed.org/signup>
 - <https://home.cern/news/>
+- <https://www.npr.org/>
+- <https://www.pbs.org/newshour/latest>
+- <https://news.kagi.com/world/latest>
+- <https://www.dw.com/en/top-stories/s-9097>
+- <https://www.france24.com/en/>
 - <https://plaintextsports.com/>
