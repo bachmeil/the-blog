@@ -120,3 +120,13 @@ This page is my personal index of real internet content. If it helps anyone else
 - <https://plaintextsports.com/>
 - <https://allsports.org/>
 - <https://www.mollywhite.net/>
+- <https://www.quantamagazine.org/>
+- <https://news.mit.edu/>
+- <https://worksinprogress.co/>
+- <https://community.ibm.com/community/user/my-community>
+- <https://research.ibm.com/blog>
+- <https://scottlocklin.wordpress.com/>
+- <https://sqlite.org/forum/forum>
+- <https://sqlite.org/docs.html>
+- <https://fossil-scm.org/home/doc/trunk/www/index.wiki>
+- <https://fossil-scm.org/forum/forum>
