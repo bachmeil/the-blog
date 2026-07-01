@@ -26,7 +26,11 @@ This page is my personal index of real internet content. If it helps anyone else
 - <https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/index.html>
 - <https://faculty.chicagobooth.edu/eugene-fama>
 - <https://www.nber.org/>
+- <https://www.nber.org/conferences?page=1&perPage=50&eventType=past>
+- <https://www.nber.org/nber-news?page=1&perPage=50>
+- <https://www.nber.org/subscribe>
 - <https://www.aeaweb.org/journals/jep>
+- <https://www.aeaweb.org/conference/recent-developments-lectures>
 - <http://repec.org/>
 - <https://arxiv.org/>
 - <http://scripting.com/>
