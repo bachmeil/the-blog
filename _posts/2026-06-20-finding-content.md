@@ -118,3 +118,5 @@ This page is my personal index of real internet content. If it helps anyone else
 - <https://www.dw.com/en/top-stories/s-9097>
 - <https://www.france24.com/en/>
 - <https://plaintextsports.com/>
+- <https://allsports.org/>
+- <https://www.mollywhite.net/>
