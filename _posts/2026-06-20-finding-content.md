@@ -128,6 +128,7 @@ Criteria for inclusion:
 - <https://web.stanford.edu/~boyd/>
 - <https://tratt.net/laurie/blog/>
 - <https://dirk.eddelbuettel.com/blog/>
+- <https://notstatschat.rbind.io/post/>
 - <https://earlyweblinks.com/>
 
 # Programming and Related
