@@ -118,6 +118,7 @@ Criteria for inclusion:
 - <https://simonwillison.net/>
 - <https://paulgraham.com/>
 - <https://sive.rs/>
+- <https://joeyh.name/blog/>
 - <https://sachachua.com/blog/>
 - <https://www.iro.umontreal.ca/~lecuyer/>
 - <https://austinhenley.com/blog.html>
@@ -127,6 +128,7 @@ Criteria for inclusion:
 - <https://web.stanford.edu/~boyd/>
 - <https://tratt.net/laurie/blog/>
 - <https://dirk.eddelbuettel.com/blog/>
+- <https://earlyweblinks.com/>
 
 # Programming and Related
 
