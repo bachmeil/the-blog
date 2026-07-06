@@ -4,7 +4,7 @@ title: Today in Shit HN Says
 ---
 I came across this gem that was not downvoted on HN today:
 
-> > you can probably offer them a price that works for both of you
+> `>` you can probably offer them a price that works for both of you
 
 > There is no such price, because there is no way to sustainably develop a product without subscriptions. You can't go to a local bakery and pay $24 for life to get fresh rolls every day.
 
