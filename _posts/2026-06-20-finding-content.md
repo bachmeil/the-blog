@@ -27,6 +27,7 @@ Criteria for inclusion:
 - <https://www.france24.com/en/>
 - <https://plaintextsports.com/>
 - <https://allsports.org/>
+- <https://www.newyorkfed.org/research/calendars/nationalecon_cal>
 
 # Tech News
 
@@ -46,6 +47,8 @@ Criteria for inclusion:
 - <https://www.eia.gov/>
 - <https://www.bls.gov/>
 - <https://bea.gov/>
+- <https://www.bea.gov/news/schedule>
+- <https://www.bea.gov/news/blog>
 - <https://www.nber.org/>
 - <https://www.nber.org/conferences?page=1&perPage=50&eventType=past>
 - <https://www.nber.org/nber-news?page=1&perPage=50>
