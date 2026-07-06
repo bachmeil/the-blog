@@ -92,6 +92,8 @@ Criteria for inclusion:
 - <http://korora.econ.yale.edu/phillips/>
 - <https://norman-swanson.github.io/>
 - <https://sites.nd.edu/esims/>
+- <https://www.sas.upenn.edu/~vr0j/>
+- <https://www.aronaldg.org/>
 - <https://earlyretirementnow.com/>
 - <https://www.mrmoneymustache.com/>
 - <https://www.mercatus.org/macro-musings> (Note: You can read transcripts of the podcasts)
