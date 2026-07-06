@@ -91,6 +91,7 @@ Criteria for inclusion:
 - <https://faculty.washington.edu/ezivot/index.htm>
 - <http://korora.econ.yale.edu/phillips/>
 - <https://norman-swanson.github.io/>
+- <https://sites.nd.edu/esims/>
 - <https://earlyretirementnow.com/>
 - <https://www.mrmoneymustache.com/>
 - <https://www.mercatus.org/macro-musings> (Note: You can read transcripts of the podcasts)
@@ -130,6 +131,8 @@ Criteria for inclusion:
 - <https://dirk.eddelbuettel.com/blog/>
 - <https://notstatschat.rbind.io/post/>
 - <https://earlyweblinks.com/>
+- <https://drewdevault.com/>
+- <https://notes.eatonphil.com/>
 
 # Programming and Related
 
@@ -154,10 +157,12 @@ Criteria for inclusion:
 - <https://sqlite.org/docs.html>
 - <https://fossil-scm.org/home/doc/trunk/www/index.wiki>
 - <https://fossil-scm.org/forum/forum>
+- <https://sr.ht/>
 
 # Books
 
 - <https://open.umn.edu/opentextbooks/>
+- <https://sites.nd.edu/esims/textbook/>
 - <https://openstax.org/>
 - <https://oercommons.org/hubs/open-textbooks>
 - <https://libretexts.org/>
@@ -166,6 +171,11 @@ Criteria for inclusion:
 - <https://plato.stanford.edu/>
 - <https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf>
 - <https://textbooks.math.gatech.edu/ila/index.html>
+- <https://sites.stat.columbia.edu/gelman/book/>
+- <https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html>
+- <https://cs3110.github.io/textbook/cover.html>
+- <https://johnwhitington.net/ocamlfromtheverybeginning/mlbook.pdf>
+- <https://dev.realworldocaml.org/>
 
 # Everything Else
 
