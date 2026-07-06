@@ -10,5 +10,5 @@ I came across this gem that was not downvoted on HN today:
 
 > Every one-time price is a gamble, where somebody is betting on something. It's a way to close your eyes and pretend ongoing costs do not exist.
 
-So apparently the sustainability of a piece of software is tied to the payment method. If someone's paying you on a subscription basis, you can run a profitable company, but if they pay you the exact same amount of money without a subscription, your business won't be profitable.
+So (apparently, according to this random internet commenter) the sustainability of a piece of software is tied to the payment method. If someone's paying you on a subscription basis, you can run a profitable company, but if they pay you the exact same amount of money without a subscription, your business won't be profitable.
 
