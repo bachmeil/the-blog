@@ -4,7 +4,7 @@ title: Leaving Hacker News
 ---
 This post is not *really* a post, it's a comment inspired by [this post from someone leaving lobste.rs](https://akselmo.dev/posts/leaving-lobste-rs-rant/).
 
-I've been using the internet for a long time - long enough to remember the release of [Mosaic](https://en.wikipedia.org/wiki/NCSA_Mosaic) being a big deal. I've been around for all the major online communities that have formed (obviously, not used the vast majority of them). One of the sad realities of online communities is that they are all eventually ruined, most often by folks posting stuff that isn't aligned with the mission of the site.
+I've been using the internet for a long time - long enough to remember the release of [Mosaic](https://en.wikipedia.org/wiki/NCSA_Mosaic) being a big deal. I've been around for all the major online communities that have formed (obviously, I have not used the vast majority of them). One of the sad realities of online communities is that they are all eventually ruined, most often by folks posting stuff that isn't aligned with the mission of the site.
 
 I gave up on Hacker News earlier this year. I still visit the site to read articles. Used in that way, however, Hacker News is just a different version of Google News. I will occasionally check the comments on an article to see if there's a free link or whatever. 
 
