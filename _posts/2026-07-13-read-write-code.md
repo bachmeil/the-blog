@@ -6,11 +6,11 @@ There have been folks questioning whether we should still read and write code in
 
 I could write many pages on this, but instead will give you only a short post.
 
-At a high level, "should I still write code" and "should I still read code" are simply the wrong questions to ask. It's natural that a professional programmer would ask such questions given the powerful coding LLMs available now. But that doesn't mean they're the right questions to ask.
+At a high level, "should I still write code" and "should I still read code" are the wrong questions to ask. Now, it's natural that a professional programmer would ask such questions, given the powerful coding LLMs we have available. But being natural doesn't mean they're the right questions.
 
-The first question to ask is "What are we trying to accomplish with this piece of software?" Are you a startup trying to knock out a largely standard web app before you run out of money? Are you a scientist writing code for a research project? Are you a hobbyist wanting to learn something new?
+The right starting point: "What are we trying to accomplish with this piece of software?" Are you a startup trying to knock out a largely standard web app before you run out of money? Are you a scientist writing code for a research project? Are you a hobbyist wanting to learn something new? Once you know that, you'll have an idea of how to define success.
 
-After you've defined what you're trying to do and how you measure success, you need to think about the optimal way to get your code. LLMs have changed nothing in this regard - you need to communicate with the computer so it knows what you want it to do. We have developed specific languages for humans to communicate our wants to the computer in a precise, efficient manner. We call those languages programming languages. Alternatively, we can use human language, but that tends to be an imprecise and inefficient way to communicate our intentions to a computer.
+Once you've thought that through, you need to determine the optimal path to getting your code. LLMs have changed nothing in this regard - you still need to communicate with the computer so it knows what you want it to do, just like you always did. We've got specialized languages that lower the cost for humans communicating their wants to the computer. We call them "programming languages". Alternatively, we could use human language, but that's an imprecise and inefficient way to communicate with a computer.
 
 Over the years, we realized that we could automate much of what we were communicating to the computer. We have compilers, metaprogramming, libraries,syntactic sugar, first-class functions, and such. Many programmers in 2010 didn't even know the basics of memory management because there was no reason they should. The vast majority of the code in any project was automated. There was no reason to read or write it.
 
