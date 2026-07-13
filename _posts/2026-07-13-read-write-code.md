@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Reading and Writing Code in the LLM Age
 ---
 There have been folks questioning whether we should still read and write code in 2026. (Examples: [here](https://antirez.com/news/169), [here](https://softwaredoug.com/blog/2026/07/09/write-code), [here](https://www.youtube.com/watch?v=ZpK5PWX2YRM), and [here](https://www.youtube.com/watch?v=cw0uqtVx8qw)).
 
