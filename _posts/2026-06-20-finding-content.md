@@ -63,6 +63,9 @@ Criteria for inclusion:
 - <https://cloud.email.em-dallasfed.org/signup>
 - <https://www.dynare.org/>
 - <https://bsvars.org/bsvars/>
+- <https://people.tamu.edu/~gtian/Lecture%20Notes%20for%20ECON660%20and%20ECON460-2021-09.pdf>
+- <https://iicseonline.org/Mathematical_Economics_1.pdf>
+- <https://www.sfu.ca/~wainwrig/5701/7701_online_New.htm>
 
 # Personal Sites and Blogs (Economics)
 
@@ -192,9 +195,23 @@ Criteria for inclusion:
 - <https://dev.realworldocaml.org/>
 - <https://softwarepreservation.computerhistory.org/LISP/book/LISP%201.5%20Programmers%20Manual.pdf>
 - <https://htdp.org/>
+- <https://web.math.princeton.edu/~js129/PDFs/teaching/MAT520_fall_2023/MAT520_Lecture_Notes.pdf>
+- <https://gabekerr.github.io/scholars/frontmatter.html>
+- <https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/resources/mitres_18_001_f17_full_book_pdf/>
+- <https://fourier.math.uoc.gr/~mk/approx1011/carothers.pdf>
+- <https://zavala92.github.io/files/Notes%20on%20Approximation%20Theory.pdf>
+- <https://people.maths.ox.ac.uk/trefethen/ATAP/ATAPfirst6chapters.pdf>
+- <https://personal.math.ubc.ca/~PLP/assets/plp.pdf>
+- <https://www.sci.brooklyn.cuny.edu/~mate/intro_proofs/intro_proofs_notes.pdf>
+- <https://personal.math.vt.edu/day/ProofsBook/IPaMV.pdf>
+- <https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/pages/lecture-notes/>
+- <https://fac.iitg.ac.in/rksri/MA642%20Real%20Analysis%20lecture%20notes,%202025.pdf>
+- <https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.html>
+
 
 # Everything Else
 
+- <https://ocw.mit.edu/>
 - <https://arxiv.org/>
 - <https://www.irs.gov/>
 - <https://www.ssa.gov/>
