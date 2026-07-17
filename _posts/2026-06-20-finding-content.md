@@ -106,6 +106,7 @@ Criteria for inclusion:
 - <https://fxdiebold.blogspot.com/>
 - <https://www.sas.upenn.edu/~fdiebold/>
 - <https://www.theretirementmanifesto.com/resources/>
+- <https://envecon.blog/>
 
 # Personal Sites and Blogs (Other)
 
@@ -181,6 +182,8 @@ Criteria for inclusion:
 - <https://cs3110.github.io/textbook/cover.html>
 - <https://johnwhitington.net/ocamlfromtheverybeginning/mlbook.pdf>
 - <https://dev.realworldocaml.org/>
+- <https://softwarepreservation.computerhistory.org/LISP/book/LISP%201.5%20Programmers%20Manual.pdf>
+- <https://htdp.org/>
 
 # Everything Else
 
