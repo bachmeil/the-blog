@@ -29,14 +29,6 @@ Criteria for inclusion:
 - <https://allsports.org/>
 - <https://www.newyorkfed.org/research/calendars/nationalecon_cal>
 
-# Tech News
-
-- <https://slashdot.org/>
-- <https://lobste.rs/>
-- <https://bubbles.town/>
-- <https://lxer.com/>
-- <https://distrowatch.com/>
-
 # Economics
 
 - <https://blogs.worldbank.org/en/home>
@@ -108,11 +100,27 @@ Criteria for inclusion:
 - <https://www.theretirementmanifesto.com/resources/>
 - <https://envecon.blog/>
 
-# Personal Sites and Blogs (Other)
+# Web Directories and Aggregators
 
+- <https://bubbles.town/>
+- <https://bearblog.dev/discover/?newest=true>
+- <https://blogroll.org/>
+- <https://indieblog.page/>
+- <https://xn--sr8hvo.ws/directory>
+- <https://personalsit.es/>
 - <https://ooh.directory/>
 - <https://curlie.org/>
 - <https://blogs.hn/>
+
+# Tech News
+
+- <https://slashdot.org/>
+- <https://lobste.rs/>
+- <https://lxer.com/>
+- <https://distrowatch.com/>
+
+# Personal Sites and Blogs (Other)
+
 - <https://www.mollywhite.net/>
 - <https://gowers.wordpress.com/>
 - <https://wordpress.com/discover>
