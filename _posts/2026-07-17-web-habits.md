@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Changing my web habits
 ---
 I've been making an effort to change my web habits. I had too much of a small number of websites, and was limiting my "writing" (should you want to call it that) to comments. In other words, my use of the web was a complete waste of time.
 
