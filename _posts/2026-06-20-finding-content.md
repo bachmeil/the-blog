@@ -114,6 +114,9 @@ Criteria for inclusion:
 - <https://ooh.directory/>
 - <https://curlie.org/>
 - <https://blogs.hn/>
+- <https://url.town/>
+- <https://kalechips.net/responsive/directory>
+- <https://blogroll.club/>
 
 # Tech News
 
