@@ -1,7 +1,6 @@
 ---
 layout: default
 title: An arbitrary feed of posts and pages
-permalink: /links/
 ---
 There's not much thought that goes into the links I put on this feed. It's mostly to give exposure to content published outside of social media and large commercial sites. Hopefully more folks will do the same so the web can remain free.
 
