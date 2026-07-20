@@ -2,7 +2,6 @@
 layout: default
 title: An arbitrary feed of posts and pages
 ---
-
 There's not much thought that goes into the links I put on this feed. It's mostly to give exposure to content published outside of social media and large commercial sites. Hopefully more folks will do the same so the web can remain free.
 
 - [DGX Spark as a daily driver](https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/)
