@@ -1,4 +1,6 @@
 ---
+layout: post
+title: AI workflow porn is as bad as productivity porn
 ---
 I see many parallels between folks writing and commenting on the right way to use AI and the personal productivity/PKM crowd.
 
