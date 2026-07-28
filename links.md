@@ -6,6 +6,7 @@ There's not much thought that goes into the links I put on this feed. It's mostl
 
 - [What is the common denominator among companies succeeding with AI-first strategies?](https://fermisense.com/when-machines-take-the-wheel/)
 - [This glue bonds to nonstick surfaces and wipes clean with ethanol](https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07)
+- [Let Over Lambda -- 50 Years of Lisp](https://letoverlambda.com/textmode.cl/guest/toc)
 - [Engineering management after the cost of code collapsed](https://karimjedda.com/engineering-management-after-cost-of-code-collapse/)
 - [DGX Spark as a daily driver](https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/)
 - [Softcore First, Hardcore Eventually: A Ladder for the IndieWeb](https://brennan.day/softcore-first-hardcore-eventually-a-ladder-for-the-indieweb/)
