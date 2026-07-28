@@ -4,6 +4,9 @@ title: An arbitrary feed of posts and pages
 ---
 There's not much thought that goes into the links I put on this feed. It's mostly to give exposure to content published outside of social media and large commercial sites. Hopefully more folks will do the same so the web can remain free.
 
+- [What is the common denominator among companies succeeding with AI-first strategies?](https://fermisense.com/when-machines-take-the-wheel/)
+- [This glue bonds to nonstick surfaces and wipes clean with ethanol](https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07)
+- [Engineering management after the cost of code collapsed](https://karimjedda.com/engineering-management-after-cost-of-code-collapse/)
 - [DGX Spark as a daily driver](https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/)
 - [Softcore First, Hardcore Eventually: A Ladder for the IndieWeb](https://brennan.day/softcore-first-hardcore-eventually-a-ladder-for-the-indieweb/)
 - [Note-Taking and Personal Knowledge Management](https://unattributed.cc/note-taking-and-personal-knowledge-management)
