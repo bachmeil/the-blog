@@ -20,6 +20,9 @@ Criteria for inclusion:
 
 # News and Sports
 
+- <https://text.npr.org/>
+- <https://lite.cnn.com/>
+- <https://www.weather.gov/>
 - <https://www.npr.org/>
 - <https://www.pbs.org/newshour/latest>
 - <https://news.kagi.com/world/latest>
@@ -28,6 +31,9 @@ Criteria for inclusion:
 - <https://plaintextsports.com/>
 - <https://allsports.org/>
 - <https://www.newyorkfed.org/research/calendars/nationalecon_cal>
+- <https://fred.stlouisfed.org/>
+- <https://fred.stlouisfed.org/releases/calendar>
+- <https://www.atlantafed.org/research-and-data/data/gdpnow>
 
 # Economics
 
@@ -61,6 +67,11 @@ Criteria for inclusion:
 - <https://www.frbsf.org/subscriptions/>
 - <https://www.dallasfed.org/research>
 - <https://cloud.email.em-dallasfed.org/signup>
+- <https://www.atlantafed.org/>
+- <https://www.atlantafed.org/research-and-data/data>
+- <https://www.atlantafed.org/research-and-data/publications>
+- <https://www.atlantafed.org/research-and-data/surveys>
+- <https://www.atlantafed.org/news-and-events/podcasts>
 - <https://www.dynare.org/>
 - <https://bsvars.org/bsvars/>
 - <https://people.tamu.edu/~gtian/Lecture%20Notes%20for%20ECON660%20and%20ECON460-2021-09.pdf>
